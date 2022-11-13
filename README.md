@@ -1,6 +1,6 @@
 # Bootcamp projects
 
-Data Sciencec bootcamp with `P'Toy`
+Data Sciencec bootcamp with DataRockie `P'Toy`
 
 We learn 10 sprints during 4 month program.
 
@@ -14,5 +14,3 @@ We learn 10 sprints during 4 month program.
 - Intro to Python
 - Essential Python for DA
 - Dashboard
-
-Badges : ....
