@@ -1,4 +1,5 @@
 # Homework 02
+# replit : https://replit.com/@ThunpischaYodka/Batch6PaoYingChub?v=1
 # Pao Ying Chub
 # user play unlimited times
 # sum win, loss, tie
