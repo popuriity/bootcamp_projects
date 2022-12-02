@@ -1,4 +1,5 @@
 # homework 01
+# replit : https://replit.com/@ThunpischaYodka/Batch06chatbotpizza?v=1
 # chatbot (rule-based)
 # ordering pizza
 
