@@ -1,0 +1,50 @@
+---
+title: "nycflights13"
+author: "Author : Thunpischa Yodkaew"
+date: "2022-12-02"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## NYCFlights13 Notebook
+
+### load library
+
+First step is loading library
+
+-   `nycflights13` contains dataset about flights in NYC in 2013
+
+-   `tidyverse` is used for manipulating data.
+
+-   `lubridate` is used for managing datetime data.
+
+```{r}
+library(nycflights13)
+library(tidyverse)
+library(lubridate)
+```
+
+### 1. Which 5 airlines have the most average departure delay (in minutes).
+
+```{r cars}
+
+flights %>% 
+  filter(dep_delay > 0) %>%  # filter only positive delay
+  group_by(carrier) %>% 
+  summarise(mean_delay = mean(dep_delay)) %>% 
+  arrange(desc(mean_delay)) %>% 
+  left_join(airlines, by = "carrier") %>% 
+  select(airline = name,
+         code = carrier,
+         mean_delay_mins = mean_delay ) %>% 
+  head(5)
+
+```
+
+SkyWest, Mesa, ExpressJet, Endeavor, Frontier Airlines are top5 of deley departure in 2013, respectively.
+
+### 2. The causes that make flight delay.
