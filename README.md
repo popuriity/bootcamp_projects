@@ -26,7 +26,7 @@ Created a rule-based chatbot and game using `if-else`, `while` in `R`
 - [Diamonds data viz](https://github.com/popuriity/bootcamp_projects/blob/main/R/Homework_DataViz.pdf) - Created charts from `diamonds` dataset using `ggplot2` library and knitted report to pdf file using `Rmarkdown`
 
 ## Statistics
-- [Titanic Survival](https://github.com/popuriity/bootcamp_projects/blob/main/R/Titanic.ipynb) - Predicted survival passenger from `titanic` dataset.
+- [Titanic Survival](https://github.com/popuriity/bootcamp_projects/blob/main/Stats%20101/Titanic.ipynb) - Predicted survival passenger from `titanic` dataset.
 
 ## Intro to Classical Machine Learing
 
