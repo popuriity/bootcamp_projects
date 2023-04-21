@@ -38,11 +38,15 @@ Created 5 tables of restaurant database and writed SQL queries to analyze data
 
 
 ## Essential Python for DA
-
+- [Analyzing Sales Data](Python/Course Pandas Foundation - Final Project - Analyzing Sales Data.ipynb)
 ## Dashboard
-- [Flight Report Departing NYC in 2013](bootcamp_projects/Dashboard/)
+
+### Flight Report Departing NYC in 2013 by Looker Studio
+A dashboard for monitoring all departing flight data from NYC in 2013 such as Total flight,  
+  - [NYCflight data prepation in R](Dashboard/prepare_nycflights.R) - prepare data using `dplyr` before
   - [Dashboard of Flight Report Departing NYC in 2013](https://lookerstudio.google.com/reporting/1c3c20c1-fded-49b1-a276-01d8418f0dd9)
-  - [NYCflight data prepation in R](Dashboard/prepare_nycflights.R)
+
+### Airbnb Listings in New York City by Tableau Public
 - [Airbnb Listings in New York City](https://public.tableau.com/views/AirBnBdashboard_16795933937700/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
