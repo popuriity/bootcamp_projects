@@ -38,7 +38,9 @@ Summary output shows that this model could explain selling price variable 45.8%.
 
 
 ![LM](output2.png)
+
 From ANOVA table means that there are at least 1 independent variables in the model can predict selling price significantly.
 
 ![Coefficients](output3.png)
+
 Moreover, `year`, `km_driven`, `fuel_diesel`, seller type, transmission have significant relationship with price.
