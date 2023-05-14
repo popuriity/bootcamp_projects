@@ -22,6 +22,10 @@ Created a rule-based chatbot and game using `if-else`, `while` in `R`
 - [Analyzing NYCflights13](https://github.com/popuriity/bootcamp_projects/blob/main/R/nycflights13_homework.ipynb) - Analyzed departured flight from NYC in 2013 from `nycflights13` dataset using `dplyr`
 - [Connect PostgreSQL server](https://github.com/popuriity/bootcamp_projects/blob/main/R/Connect_PostgreSQL.ipynb) on https://www.elephantsql.com/ then wrote and uploaded tables to server using `RPostgreSQL`
 
+### Created dataset from scraping website data using `rvest`
+- [Top50_Rating_IMDB](https://github.com/popuriity/bootcamp_projects/blob/main/Scraping/Mini_Project1_Web_scraping_Top50_Rating_IMDB.ipynb) - get top50 rated movies from IMDB which all movies and its details are displayed on 1 page.
+- [Specphone_Phone_Database](https://github.com/popuriity/bootcamp_projects/blob/main/Scraping/Mini_Project2_Specphone_Phone_Database.ipynb) - get all phone model product details which each of model has its page that contains details.
+
 ## Data Visualization
 - [Diamonds data viz](https://github.com/popuriity/bootcamp_projects/blob/main/R/Homework_DataViz.pdf) - Created charts from `diamonds` dataset using `ggplot2` library and knitted report to pdf file using `Rmarkdown`
 
