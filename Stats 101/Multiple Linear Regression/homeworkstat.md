@@ -23,14 +23,9 @@ This dataset contains
 **Summary output**
 
 Linear model :
-
-$selling \ price = 
-\beta_0 + \beta_1*year + \beta_2*km\_driven +
-\beta_3*fuel_{petrol} + \beta_4*fuel_{diesel} +
-\beta_5*{fuel_cng}+\beta_6*{fuel_lpg}+
-\beta_7*{seller\_type}_{individual} +
-\beta_8*{seller\_type}_{dealer} +
-\beta_9*transmission $
+ 
+$sellingprice = b_{0} + b_{1} \ast year + b_{2} \ast kmdriven + b_{3} \ast fuel_{petrol} + b_{4} \ast fuel_{diesel} + b_{5} \ast fuel_{cng} + b_{6} \ast fuel_{lpg} +$
+$b_{7} \ast sellertype_{individual} + b_{8} \ast sellertype_{dealer} + b_{9} \ast transmission$
 
 ![summary](output1.png)
 
