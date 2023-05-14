@@ -31,6 +31,7 @@ Created a rule-based chatbot and game using `if-else`, `while` in `R`
 
 ## Statistics
 - [Titanic Survival](https://github.com/popuriity/bootcamp_projects/blob/main/Stats%20101/Titanic.ipynb) - Predicted survival passenger from `titanic` dataset.
+- [Used car Price](https://github.com/popuriity/bootcamp_projects/blob/main/Stats%20101/Multiple%20Linear%20Regression/homeworkstat.md) - Created linear regression model from `used car price` dataset in Excel
 
 ## Intro to Classical Machine Learing
 
@@ -41,7 +42,7 @@ Created a rule-based chatbot and game using `if-else`, `while` in `R`
 ## Essential Python for DA
 - [Analyzing Sales Data](https://github.com/popuriity/bootcamp_projects/blob/8ffbcef45f0979f84bc4e6bed5642462dd4438f4/Python/Course%20Pandas%20Foundation%20-%20Final%20Project%20-%20Analyzing%20Sales%20Data.ipynb) - Clean and find answers about sales data using `Pandas` library
 - [Netflix Dataset Analysis](Python/Netflix_Dataset_Analysis.ipynb) - Find answers of Netflix data using `Pandas` library
-- [Cat breeds dataset]() - Get cat data from public API [Cat Facts](https://catfact.ninja)
+- [Cat breeds dataset](https://github.com/popuriity/bootcamp_projects/blob/main/Python/API_Homework_cat_breeds_dataset.ipynb) - Get cat data from public API [Cat Facts](https://catfact.ninja)
 
 ## Dashboard
 - **Flight Report Departing NYC in 2013**
