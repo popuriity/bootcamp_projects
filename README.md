@@ -13,6 +13,10 @@ Created 5 tables of restaurant database and writed SQL queries to analyze data
 - [Restaurant table on Replit](https://replit.com/@ThunpischaYodka/SQLhomeworkbatch6#main.sql)
 - [Restaurant SQLite code](https://github.com/popuriity/bootcamp_projects/blob/main/SQL%20homework)
 
+Wrote query to answer the Store Sales Quiz
+- [Store Sales Quiz on Replit](https://replit.com/@ThunpischaYodka/SQLStoreSales?v=1)
+- [Store Sales Quiz SQLite code](https://github.com/popuriity/bootcamp_projects/blob/main/SQL_StoreSales_Quiz.sql)
+
 ## R Programming
 Created a rule-based chatbot and game using `if-else`, `while` in `R`
 - [Pizza chatbot](https://replit.com/@ThunpischaYodka/Batch06chatbotpizza?v=1)
